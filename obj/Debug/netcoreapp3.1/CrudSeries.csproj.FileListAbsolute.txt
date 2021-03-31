@@ -1,0 +1,13 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\bin\Debug\netcoreapp3.1\CrudSeries.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\bin\Debug\netcoreapp3.1\CrudSeries.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\bin\Debug\netcoreapp3.1\CrudSeries.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\bin\Debug\netcoreapp3.1\CrudSeries.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\bin\Debug\netcoreapp3.1\CrudSeries.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\bin\Debug\netcoreapp3.1\CrudSeries.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\obj\Debug\netcoreapp3.1\CrudSeries.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\obj\Debug\netcoreapp3.1\CrudSeries.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\obj\Debug\netcoreapp3.1\CrudSeries.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\obj\Debug\netcoreapp3.1\CrudSeries.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\obj\Debug\netcoreapp3.1\CrudSeries.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\obj\Debug\netcoreapp3.1\CrudSeries.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\CrudSériesDOTNET\CrudSeries\obj\Debug\netcoreapp3.1\CrudSeries.genruntimeconfig.cache
